@@ -1,2 +1,1 @@
-Hello!
-A new file created ...
+Det här är ny text i den här filen
